@@ -1,0 +1,3 @@
+<xml>
+<name>Vadim</name>
+<age>32</age>
