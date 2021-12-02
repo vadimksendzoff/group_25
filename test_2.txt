@@ -1,5 +1,5 @@
 <xml>
 <name>Vadim</name>
 <age>32</age>
-<city>Lviv</city>
-<from>Belaus</from>
+<city>Minsk-Lviv</city>
+<from>Belarus</from>
